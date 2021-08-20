@@ -12,4 +12,4 @@ Aconpanhe a evolução dos demais repositórios:
 
 - Link do frontend Mobile: https://github.com/ludrianowashington/conttakapp
 
-- Link do frontend Web:
+- Link do frontend Web: https://github.com/ludrianowashington/conttakapp
